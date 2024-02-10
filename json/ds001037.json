@@ -1,0 +1,7 @@
+{
+"_id":"ds001037",
+"_rev":"1-9bbebf2937ea81c08f0b084fa0103985",
+"dataset_description.json":{"Name":"The brain of Chris","BIDSVersion":"1.0.2","Authors":["Chris Gorgolewski"]},
+"sub-CG":{"anat":{"sub-CG_T1w.nii.gz":{"_DataLink_":"https://neurojson.org/io/stat.cgi?action=get&db=openneuro&doc=ds001037&file=sub-CG/anat/sub-CG_T1w.nii.gz&size=8600732"}}},
+"_revs_info":[{"rev":"1-9bbebf2937ea81c08f0b084fa0103985","status":"available"}]
+}
