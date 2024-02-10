@@ -1,0 +1,12 @@
+{
+"_id":"ds002750",
+"_rev":"1-6efe5df88d5af38e56a37ebb3bd873de",
+"dataset_description.json":{"BIDSVersion":"1.0.0","License":"CC0","Name":"YanDataBIDS","Authors":["Chao-Gan Yan"],"DatasetDOI":"10.18112/openneuro.ds002750.v1.0.1"},
+"CHANGES":"1.0.1 2020-04-28\n  - Add OpenNeuro curator note\n\n1.0.0\t2020-04-27\n\n\t- Initial snapshot\n",
+"participants.tsv":{"participant_id":["sub-01","sub-02","sub-03",""],"sex":["NA","NA","NA"],"age":[0,0,0]},
+"README":"OpenNeuro curator note: This dataset was previously accessible at ds001165. The dataset was reuploaded due to privacy considerations. ",
+"sub-01":{"func":{"sub-01_task-rest_bold.json":{"TaskName":"rest","RepetitionTime":2},"sub-01_task-rest_bold.nii.gz":{"_DataLink_":"https://neurojson.org/io/stat.cgi?action=get&db=openneuro&doc=ds002750&file=sub-01/func/sub-01_task-rest_bold.nii.gz&size=41817553"}},"anat":{"sub-01_T1w.nii.gz":{"_DataLink_":"https://neurojson.org/io/stat.cgi?action=get&db=openneuro&doc=ds002750&file=sub-01/anat/sub-01_T1w.nii.gz&size=5928858"}}},
+"sub-02":{"func":{"sub-02_task-rest_bold.json":{"TaskName":"rest","RepetitionTime":2},"sub-02_task-rest_bold.nii.gz":{"_DataLink_":"https://neurojson.org/io/stat.cgi?action=get&db=openneuro&doc=ds002750&file=sub-02/func/sub-02_task-rest_bold.nii.gz&size=39701201"}},"anat":{"sub-02_T1w.nii.gz":{"_DataLink_":"https://neurojson.org/io/stat.cgi?action=get&db=openneuro&doc=ds002750&file=sub-02/anat/sub-02_T1w.nii.gz&size=4890844"}}},
+"sub-03":{"func":{"sub-03_task-rest_bold.json":{"TaskName":"rest","RepetitionTime":2},"sub-03_task-rest_bold.nii.gz":{"_DataLink_":"https://neurojson.org/io/stat.cgi?action=get&db=openneuro&doc=ds002750&file=sub-03/func/sub-03_task-rest_bold.nii.gz&size=40717568"}},"anat":{"sub-03_T1w.nii.gz":{"_DataLink_":"https://neurojson.org/io/stat.cgi?action=get&db=openneuro&doc=ds002750&file=sub-03/anat/sub-03_T1w.nii.gz&size=5209447"}}},
+"_revs_info":[{"rev":"1-6efe5df88d5af38e56a37ebb3bd873de","status":"available"}]
+}
