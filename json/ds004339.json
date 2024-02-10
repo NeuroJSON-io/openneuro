@@ -1,0 +1,13 @@
+{
+"_id":"ds004339",
+"_rev":"1-63926213a1acddf63ff6320b680ae71d",
+"dataset_description.json":{"Name":"dataset_for_test","BIDSVersion":"1.4.0","DatasetType":"raw","License":"CC0","Authors":["Arnaud","et al."],"ReferencesAndLinks":["Arnaud, Brainhack Marseille,  2022, training session to test openneuro platform"],"Acknowledgements":"The authors thank the openneuro developpers","Funding":["Free"],"EthicsApprovals":["Participants provided informed consent in compliance with the ethical requirements of openscience community"],"DatasetDOI":"doi:10.18112/openneuro.ds004339.v1.0.0"},
+"participants.json":{"G":{"LongName":"Gender","Description":"Gender","Levels":{"M":"Man","F":"Woman"}}},
+"CHANGES":"1.0.0 2022-11-25\n  - first version\n",
+"derivatives":{"labels":{"sub-001":{"sub-001_labels.nii.gz":{"_DataLink_":"https://neurojson.org/io/stat.cgi?action=get&db=openneuro&doc=ds004339&file=derivatives/labels/sub-001/sub-001_labels.nii.gz&size=32425"}},"sub-002":{"sub-002_labels.nii.gz":{"_DataLink_":"https://neurojson.org/io/stat.cgi?action=get&db=openneuro&doc=ds004339&file=derivatives/labels/sub-002/sub-002_labels.nii.gz&size=31880"}}}},
+"participants.tsv":{"participant_id":["sub-001","sub-002"],"G":["M","F"]},
+"README":"{\n  \"Name\": \"dataset_for_test\",\n  \"BIDSVersion\": \"1.4.0\",\n  \"DatasetType\": \"raw\",\n  \"License\": \"CC-BY-2.0\",\n  \"Authors\": [\n    \"Arnaud\",\n    \"et al.\"\n  ],\n  \"ReferencesAndLinks\": [\n    \"Arnaud, Brainhack Marseille,  2022, training session to test openneuro platform\" \n  ],\n  \"Acknowledgements\":\n    \"The authors thank the openneuro developpers\",\n  \"Funding\": [\n    \"Free\"\n  ],\n  \"EthicsApprovals\": [\n    \"Participants provided informed consent in compliance with the ethical requirements of openscience community\"\n  ]\n}\n",
+"sub-001":{"anat":{"sub-001_T1w.nii.gz":{"_DataLink_":"https://neurojson.org/io/stat.cgi?action=get&db=openneuro&doc=ds004339&file=sub-001/anat/sub-001_T1w.nii.gz&size=3069143"}}},
+"sub-002":{"anat":{"sub-002_T1w.nii.gz":{"_DataLink_":"https://neurojson.org/io/stat.cgi?action=get&db=openneuro&doc=ds004339&file=sub-002/anat/sub-002_T1w.nii.gz&size=3063877"}}},
+"_revs_info":[{"rev":"1-63926213a1acddf63ff6320b680ae71d","status":"available"}]
+}
