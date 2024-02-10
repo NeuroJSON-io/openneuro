@@ -1,0 +1,8 @@
+{
+"_id":"ds001780",
+"_rev":"1-5bbd645d0e0a0d27534956a8ccda790b",
+"dataset_description.json":{"Name":"SC MRI dataset","BIDSVersion":"1.0.2"},
+"CHANGES":"\n1.0.0\t2019-03-06\n\n\t- Initial snapshot",
+"sub-01":{"anat":{"sub-01_T1w.nii.gz":{"_DataLink_":"https://neurojson.org/io/stat.cgi?action=get&db=openneuro&doc=ds001780&file=sub-01/anat/sub-01_T1w.nii.gz&size=13058279"}}},
+"_revs_info":[{"rev":"1-5bbd645d0e0a0d27534956a8ccda790b","status":"available"}]
+}
