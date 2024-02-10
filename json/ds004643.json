@@ -1,0 +1,8 @@
+{
+"_id":"ds004643",
+"_rev":"1-968d3ad3ccd41edf02f22b68638e300b",
+"dataset_description.json":{"Name":"Intracranial recordings using BCI2000 and the CorTec BrainInterchange","BIDSVersion":"Brain Imaging Data Structure Specification v1.8.0","License":"CC0","Authors":["Mivalt F.","van den Boom M.","Brunner P.","Kim J.","Duque-Lopez A.","Krakorova M.","Kim I.","Chang S.","Hermes D.","Kremen V.","Worrell G. A.","Miller K. J."],"Funding":["NIH U01NS128612"],"EthicsApprovals":["IACUC A00001713"],"DatasetDOI":"doi:10.18112/openneuro.ds004643.v1.0.4"},
+"CHANGES":"1.0.4 2023-07-20\n  - do not obtained\n",
+"README":"testtesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttest",
+"_revs_info":[{"rev":"1-968d3ad3ccd41edf02f22b68638e300b","status":"available"}]
+}
