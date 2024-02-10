@@ -1,0 +1,10 @@
+{
+"_id":"ds002733",
+"_rev":"1-6d799528ea5a2525e05d881fdb090830",
+"dataset_description.json":{"Name":"Bids Pilot Project","License":"CC0","Authors":["Test"],"Acknowledgements":"","HowToAcknowledge":"test","Funding":[""],"ReferencesAndLinks":["test"],"DatasetDOI":"10.18112/openneuro.ds002733.v1.0.1","BIDSVersion":"1.0.2"},
+"task-rest_bold.json":{"RepetitionTime":2,"TaskName":"rest"},
+"CHANGES":"1.0.1 2020-04-27\n  - Add OpenNeuro curator note\n2.0.0\t2018-12-06\n\n\t- s\n\n1.0.1\t2018-12-06\n\n\t- notes\n\n\n1.0.0\t2018-12-06\n\n\t- Initial snapshot\n",
+"README":"OpenNeuro curator note: This dataset was previously accessible at ds001611. The dataset was reuploaded due to privacy considerations. \n\ntest",
+"sub-01":{"ses-001":{"anat":{"sub-01_ses-001_T1w.nii":{"_DataLink_":"https://neurojson.org/io/stat.cgi?action=get&db=openneuro&doc=ds002733&file=sub-01/ses-001/anat/sub-01_ses-001_T1w.nii&size=16777568"}},"func":{"sub-01_ses-001_task-rest_bold.nii":{"_DataLink_":"https://neurojson.org/io/stat.cgi?action=get&db=openneuro&doc=ds002733&file=sub-01/ses-001/func/sub-01_ses-001_task-rest_bold.nii&size=64880992"}}}},
+"_revs_info":[{"rev":"1-6d799528ea5a2525e05d881fdb090830","status":"available"}]
+}
