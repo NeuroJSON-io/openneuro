@@ -1,0 +1,9 @@
+{
+"_id":"ds001566",
+"_rev":"1-95b749fe84399f2042dacfa1c6e07adb",
+"dataset_description.json":{"BIDSVersion":"1.0.0rc3","Name":"test"},
+"CHANGES":"1.0.1\t2018-10-23\n\n\t- Adding DOI\n\n\n1.0.0\t2018-10-23\n\n\t- Initial snapshot",
+"participants.tsv":{"participant_id":["Sub-01"],"age":[21],"sex":["f"]},
+"sub-01":{"func":{"sub-01_task-rest_bold.json":{"RepetitionTime":1.55,"TaskName":"Resting state fMRI"},"sub-01_task-rest_bold.nii.gz":{"_DataLink_":"https://neurojson.org/io/stat.cgi?action=get&db=openneuro&doc=ds001566&file=sub-01/func/sub-01_task-rest_bold.nii.gz&size=1213712039"}},"anat":{"sub-01_T1w.nii.gz":{"_DataLink_":"https://neurojson.org/io/stat.cgi?action=get&db=openneuro&doc=ds001566&file=sub-01/anat/sub-01_T1w.nii.gz&size=4936112"}}},
+"_revs_info":[{"rev":"1-95b749fe84399f2042dacfa1c6e07adb","status":"available"}]
+}
